@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BurpExtender:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BurpExtender_jar</output-path>
+    <root id="archive" name="BurpExtender.jar">
+      <element id="module-output" name="Encrypt365" />
+    </root>
+  </artifact>
+</component>
